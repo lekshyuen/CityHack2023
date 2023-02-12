@@ -1,6 +1,3 @@
-# CityHack2023
-Hackathon outcome prediction model
+# CityHack2023 - Hackathon Outcome Predictor
 
-"Run the Hackathon outcome prediction model.ipynb for model training and prediction"
-
-"The prediction model trained is saved as model.pkl"
+Welcome to the Hackathon Outcome Predictor! This powerful tool is designed to help individuals and teams predict the outcome of their hackathon project. By analyzing various attributes such as the title, description, tagline, and so on, this program uses NLP machine learning algorithms to provide a prediction of the project's chances of winning. The goal of this program is to help you maximize your chances of success by providing valuable insights and recommendations based on the data and attributes entered. Whether you're a seasoned hacker or just starting out, this tool is the perfect companion to help you achieve your goals and make the most of your hackathon experience.
